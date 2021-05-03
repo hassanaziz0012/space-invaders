@@ -7,6 +7,7 @@ So, in my journey of learning and trying out PyGame, I followed along a tutorial
 The game itself is very simple. You shoot aliens with your spaceship. The game keeps track of score, of course. And if an alien gets low enough, you lose. Game Over. Although simple, it is quite addictive, I must say.
 
 Here are some images:
+
 ![Game](https://i.imgur.com/k4OytNo.png)
 ![Game Over](https://i.imgur.com/0ED1vF8.png)
 
